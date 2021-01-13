@@ -1,0 +1,8 @@
+/css -> archivos css compilados
+/scss/style.scss, -variables.scss -mixins.scss(funciones)-> archivos bootstrap
+/media/ images, video, audio->archivos multimedia(assets)
+/include/ header.php, navbar.php, footer.php->archivos php comunes a todas las páginas
+/index.php->
+peliculas.php
+series.php
+comics.php

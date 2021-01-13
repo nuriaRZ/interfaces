@@ -1,0 +1,14 @@
+h3{
+    font-family: 'Staatliches', cursive; 
+    text-align: center;
+    background-color: #7194bf;
+    margin: 2rem;
+
+}
+.texto{
+    font-family: 'Poppins', sans-serif;
+    margin: 1rem;
+}
+img{
+    float: left;
+}

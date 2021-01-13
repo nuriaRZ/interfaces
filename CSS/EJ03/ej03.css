@@ -1,0 +1,46 @@
+h3{
+    font-family: 'Staatliches', cursive; 
+    text-align: center;
+    background-color: #7194bf;
+    margin: 2rem;
+
+}
+.texto{
+    font-family: 'Poppins', sans-serif;
+    margin: 1rem;
+}
+img{
+    float: left;
+}
+
+.menu {
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;  
+  text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: #ccc;
+    color:  #7194bf;
+  }
+
+  .menu a.active {
+    background-color:  #7194bf;
+    color: white;
+  }
+
+  #cv{
+      margin-left: 200px;
+      padding: 0px;
+      height: 100%;
+  }
